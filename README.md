@@ -1,2 +1,3 @@
-# WSNpositioning
-Dialog for WSNpositioning’s study
+# 小金的毕业设计：基于WSN的导弹爆炸点定位系统
+---
+还在论文读取中，请稍后
